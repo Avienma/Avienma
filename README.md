@@ -1,6 +1,4 @@
 
-<h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   <img align="right" src="https://profile-counter.glitch.me/Avienma/count.svg" /> </h2> 
-
 ### Hi there 👋
 
 
